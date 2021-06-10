@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudoGF
 - 👀 I’m interested in data science (Machine Leaning/Deep Learing). 
-- 🌱 I’m currently learning python and r.
+- 🌱 I’m currently learning python, sql, R, Scala.
 - 📫 How to reach me gregoire.fontaine@efrei.net or gregoire.fontaine.5@outlook.fr
 
 <!---
