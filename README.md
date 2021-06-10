@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudoGF
 - 👀 I’m interested in data science (Machine Leaning/Deep Learing). 
-- 🌱 I’m currently learning python, sql, R, Scala.
-- 📫 How to reach me gregoire.fontaine@efrei.net or gregoire.fontaine.5@outlook.fr
+- 🌱 I’m currently doing an MSc in Data Science at EFREI/Paris school of business
+- 📫 How to reach me gregoire.fontaine@efrei.net or g_fontaine3@stu-psbedu.paris
 
 <!---
 sudoGF/sudoGF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
