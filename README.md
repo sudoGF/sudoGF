@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudoGF
 - 👀 I’m interested in data science. 
-- 🌱 I’m currently doing an MSc in Data Science at EFREI/Paris school of business
+- 🌱 I’m currently doing an MSc in Data Science at EFREI/Paris school of business and working as Data Analyst.
 - 📫 How to reach me gregoire.fontaine@efrei.net or g_fontaine3@stu-psbedu.paris
 
 <!---
